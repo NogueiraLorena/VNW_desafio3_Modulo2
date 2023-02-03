@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+nav{
+    background-color: #922cbb;
+    padding: 3rem;
+}
+h1{
+    color: #ffffff;
+}
+h2{
+    color: #ffffff;
+}
+
+main{
+    display: flex;
+   justify-content: center;
+  
+}
+.theConteinerMain{
+    width: 85%;
+    height: 85vh ;
+   background-color: #fcff68;
+ padding-left: 2em;
+}
+.paragraphConteinerMain{
+   width: 35%;
+   height: 7vh;
+   
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+.firstConteiner{
+    margin-top: 1em;
+    width: 50vw;
+   height: 57vh;
+  
+}
+.imgFirstConteiner{
+    width: 88%;
+    border: solid #300042;
+}
+footer{ background-color: #9536bb; height: 11vh ;
+ padding: 2rem}h5{color: #ffffff;}
